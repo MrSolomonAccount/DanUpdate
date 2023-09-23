@@ -1,0 +1,5 @@
+C:\Users\daniel.solomon\source\repos\AutoUpdateAttempt\DanUpdate\DanUpdate\bin\Release\net6.0-windows\app.publish\DanUpdate.exe
+C:\Users\daniel.solomon\source\repos\AutoUpdateAttempt\DanUpdate\DanUpdate\bin\Release\net6.0-windows\app.publish\DanUpdate.dll
+C:\Users\daniel.solomon\source\repos\AutoUpdateAttempt\DanUpdate\DanUpdate\bin\Release\net6.0-windows\app.publish\DanUpdate.deps.json
+C:\Users\daniel.solomon\source\repos\AutoUpdateAttempt\DanUpdate\DanUpdate\bin\Release\net6.0-windows\app.publish\DanUpdate.runtimeconfig.json
+C:\Users\daniel.solomon\source\repos\AutoUpdateAttempt\DanUpdate\DanUpdate\bin\Release\net6.0-windows\app.publish\DanUpdate.pdb
